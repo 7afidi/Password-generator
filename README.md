@@ -42,8 +42,8 @@ npm run dev
 ## Acknowledgements
 * [Picocss](https://picocss.com/)
 * [Notistack](https://notistack.com/)
-* [React-icons] (https://react-icons.github.io/react-icons)
-* [Vite] (https://vitejs.dev/)
+* [React-icons](https://react-icons.github.io/react-icons)
+* [Vite](https://vitejs.dev/)
 
 
 
